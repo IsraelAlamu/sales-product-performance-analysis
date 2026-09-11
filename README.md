@@ -1,4 +1,4 @@
-# Adventure Hardware Group (AHG) Sales Analysis
+# Sales & Product Performance  Analysis
 
 ## 📌 Project Overview
 This project analyzes sales performance across regions, products, and sales channels (online vs in-store) to uncover trends and support business decision-making.
