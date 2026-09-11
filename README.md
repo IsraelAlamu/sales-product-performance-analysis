@@ -68,20 +68,17 @@ LEFT JOIN OrderSummary AS OS
 ## 📷 Dashboard Preview
 
 - Below are Power Bi dashboards developed to visualize key business insights and support data-driven decision making.
-
-### Sales Overview
-
-<p align="center">
-  <img src="https://github.com/IsraelAlamu/ahg_sales-analysis/blob/main/AHG_Executive_Dashboard_Screenshot.png" width="800"/>
-</p>
-
-### Product Analysis
+## Sales Executive Dashboard
 
 <p align="center">
-  <img src="https://github.com/IsraelAlamu/ahg_sales-analysis/blob/main/AHG_Product-analysis_screenshot.png" width="800"/>
+  <img src="./executive screen shot.png" alt="Sales Executive Dashboard" width="850">
 </p>
 
+## Product Performance Analysis
 
+<p align="center">
+  <img src="product%20performance%20screen%20shot.png" alt="Product Performance Analysis" width="850">
+</p>
 
 
 
