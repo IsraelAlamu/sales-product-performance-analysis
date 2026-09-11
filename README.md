@@ -4,7 +4,7 @@
 This project analyzes sales performance across regions, products, and sales channels (online vs in-store) to uncover trends and support business decision-making.
 
 ## 🎯 Business Problem
-The Business is experiencing variations in sales performance across regions and sales channels (online vs in-store). The business needs to understand key drivers of revenue, customer purchasing behavior, and the impact of discounting in order to improve profitability and optimize sales strategy.
+business is experiencing variations in sales performance across regions and sales channels (online vs in-store). The business needs to understand key drivers of revenue, customer purchasing behavior, and the impact of discounting in order to improve profitability and optimize sales strategy.
 
 ## 🛠 Tools Used
 - SQL (data extraction & transformation)
