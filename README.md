@@ -77,7 +77,7 @@ LEFT JOIN OrderSummary AS OS
 ## Product Performance Analysis
 
 <p align="center">
-  <img src="product%20performance%20screen%20shot.png" alt="Product Performance Analysis" width="850">
+  <img src="./product perfomance screen shot.png" alt="Product Performance Analysis" width="850">
 </p>
 
 
