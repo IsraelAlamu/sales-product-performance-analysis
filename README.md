@@ -71,7 +71,7 @@ LEFT JOIN OrderSummary AS OS
 
 ## 📷 Dashboard Preview
 
-- Below are interactive dashboards built in power BI showcasing key business insights.
+- Below are Power Bi dashboards developed to visualize key business insights and support data-driven decision making.
 
 ### Sales Overview
 
