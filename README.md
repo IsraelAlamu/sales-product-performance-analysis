@@ -56,16 +56,12 @@ LEFT JOIN OrderSummary AS OS
 
 - Regional performance varied, with some regions outperforming others in both order volume and revenue contribution.
 
-- Discounting patterns appeared to impact revenue, with higher discounts not always translating to increased total sales.
-
 ## 📈 Business Recommendations
 - Improve online sales strategy by increasing average order value through product bundling and cross-selling.
 
 - Align pricing and promotional strategies between online and in-store channels to maximize revenue.
 
 - Focus marketing efforts on high-performing product categories to drive further growth.
-
-- Optimize discount strategies to ensure they contribute positively to revenue rather than eroding margins.
 
 - Investigate underperforming regions and implement targeted campaigns to boost sales.
 
